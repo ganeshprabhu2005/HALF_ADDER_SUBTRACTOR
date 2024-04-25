@@ -80,7 +80,11 @@ RegisterNumber: 212223220023
 
 
 ![315939117-bef81b8c-f614-4d7e-abc0-213d8d344ee9](https://github.com/ganeshprabhu2005/HALF_ADDER_SUBTRACTOR/assets/146162190/92b7cdf8-c8b8-4735-9723-093ddd2196b9)
-![315939189-a6b1d4ad-b218-4a61-82d4-3fdbc5275edd](https://github.com/ganeshprabhu2005/HALF_ADDER_SUBTRACTOR/assets/146162190/0b90708c-e89b-4f0d-b0d4-fd655e2e1566)
+
+
+![315939189-a6b1d4ad-b218-4a61-82d4-3fdbc5275edd - Copy](https://github.com/ganeshprabhu2005/HALF_ADDER_SUBTRACTOR/assets/146162190/b96972ba-bfca-4b1c-afd7-7476ae79e2ed)
+
+
 
 
 
