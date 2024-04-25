@@ -78,7 +78,18 @@ RegisterNumber: 212223220023
 **Output/TIMING Waveform**
 
 
+
 ![315939117-bef81b8c-f614-4d7e-abc0-213d8d344ee9](https://github.com/ganeshprabhu2005/HALF_ADDER_SUBTRACTOR/assets/146162190/92b7cdf8-c8b8-4735-9723-093ddd2196b9)
+
+
+
+
+
+
+
+
+
+
 
 
 
